@@ -1,3 +1,4 @@
+#--read data & partition data
 #============================================================
 # Rattle timestamp: 2014-01-24 09:42:32 x86_64-w64-mingw32 
 # Load an R data frame.
